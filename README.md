@@ -1,5 +1,5 @@
 # nvim-config
-
+Inspired by [@craftzdog](https://github.com/craftzdog)'s [dotfiles](https://github.com/craftzdog/dotfiles-public)
 ## Dont use install.sh
 ![image](https://user-images.githubusercontent.com/65607123/195494560-a2a6e26b-0157-4a07-98d8-3b3fcec0fa17.png)
 
